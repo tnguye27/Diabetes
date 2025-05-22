@@ -4,7 +4,7 @@ A sample diabetes dataset focusing on showcasing SQL skill.
 ### Goal
 I created a database to understand the mechanisms of diabetes. As diabetes is common in the world today and seen to have a huge impact on daily living, understanding the factors that contribute to diabetes can give people a better understanding of the contributors. By creating this database, people who are diagnosed with diabetes or people who are concerned about diabetes will be able to use this dataset to learn of common and current potential factors that can contribute to diabetes. 
 
-Note: While there are 70,000 known people with diabetes, I narrowed down specific factors that have an impact on Type 1 and Type 2 diabetes. The dataset will specifically focus on adults (18+) with Type 1 or Type 2 diabetes. Also, I limited each entitity to only 100 observations. 
+Note: While there are 70,000 known people with diabetes, I narrowed down specific factors that have an impact on Type 1 and Type 2 diabetes. The dataset will specifically focus on adults (18+) with Type 1 or Type 2 diabetes. Also, I limited each entity to only 100 observations. 
 
 ### Description of Source
 The diabetes [dataset](https://www.kaggle.com/datasets/ankitbatra1210/diabetes-dataset) was compiled by Ankit Batra from multiple sources, including clinical
